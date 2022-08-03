@@ -1,5 +1,1 @@
-# Purpose
-
-# Usage
-
-# Programs
+#  GOG.com Game Collection Verfication
