@@ -1,5 +1,4 @@
 # Purpose
-TODO
 
 # Usage
 
