@@ -1,1 +1,2 @@
-# GOG.com-Game-Collection-Verfication
+# Purpose
+TODO
