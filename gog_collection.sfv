@@ -432,6 +432,11 @@ aliens_versus_predator_classic_2000/avp_controls_guide.zip  24c94188
 aliens_versus_predator_classic_2000/avp_manual.zip  add3647e
 aliens_versus_predator_classic_2000/avp_wallpaper.zip  eba0fe96
 aliens_versus_predator_classic_2000/setup_avp_classic_20160330_(2149).exe  debbc475	BAD debbc475 != 20160330
+aliens_versus_predator_classic_2000.sfv/avp_avatars.zip  9eccb51c
+aliens_versus_predator_classic_2000.sfv/avp_controls_guide.zip  24c94188
+aliens_versus_predator_classic_2000.sfv/avp_manual.zip  add3647e
+aliens_versus_predator_classic_2000.sfv/avp_wallpaper.zip  eba0fe96
+aliens_versus_predator_classic_2000.sfv/setup_avp_classic_20160330_(2149).exe  debbc475
 alone_in_the_dark_1/Alone_in_the_Dark_1_soundtrack.zip  de607c05
 alone_in_the_dark_1/aitd_1_manual.zip  b7831ecb
 alone_in_the_dark_1/aitd_1_newspaper.zip  b39c3fff
@@ -570,6 +575,9 @@ angerforce_reloaded/setup_angerforce_reloaded_1.0_(32073).exe  045b04d3
 anima_gate_of_memories/setup_anima_-_gate_of_memories_20171122_(16593)-1.bin  6d7643b2	BAD 6d7643b2 != 20171122
 anima_gate_of_memories/setup_anima_-_gate_of_memories_20171122_(16593)-2.bin  818a668d	BAD 818a668d != 20171122
 anima_gate_of_memories/setup_anima_-_gate_of_memories_20171122_(16593).exe  5a235034	BAD 5a235034 != 20171122
+anima_gate_of_memories.sfv/setup_anima_-_gate_of_memories_20171122_(16593)-1.bin  6d7643b2
+anima_gate_of_memories.sfv/setup_anima_-_gate_of_memories_20171122_(16593)-2.bin  818a668d
+anima_gate_of_memories.sfv/setup_anima_-_gate_of_memories_20171122_(16593).exe  5a235034
 ankh_2_heart_of_osiris/setup_ankh_2_heart_of_osiris_1.0_(39335).exe  823015dd
 ankh_3_battle_of_the_gods/setup_ankh_3_battle_of_the_gods_1.0_(39335).exe  7904cee8
 ankh_anniversary_edition/concepts_and_sketches.zip  2ea56b9d
@@ -1672,6 +1680,8 @@ blacksad_under_the_skin/setup_blacksad_under_the_skin_1.0.5_12210.2935.202004030
 blacksad_under_the_skin/setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe  69a9e4f6
 blackwind/setup_blackwind_release_1.0.2.8_e64ad590_(55275)-1.bin  46f78a32	BAD 46f78a32 != e64ad590
 blackwind/setup_blackwind_release_1.0.2.8_e64ad590_(55275).exe  992b4003	BAD 992b4003 != e64ad590
+blackwind.sfv/setup_blackwind_release_1.0.2.8_e64ad590_(55275)-1.bin  46f78a32
+blackwind.sfv/setup_blackwind_release_1.0.2.8_e64ad590_(55275).exe  992b4003
 blackwood_crossing/setup_blackwood_crossing_1.5_(11890)-1.bin  0876163d
 blackwood_crossing/setup_blackwood_crossing_1.5_(11890).exe  7f37aeee
 blade_bones/setup_blade_and_bones_2.3.0.9.exe  838cc49d
@@ -1758,6 +1768,15 @@ blitzkrieg_2_fall_of_the_reich/blitzkrieg_2_anthology_walkthrough.zip  73910ce1
 blitzkrieg_2_fall_of_the_reich/blitzkrieg_2_anthology_wallpapers.zip  9c57a552
 blitzkrieg_2_fall_of_the_reich/setup_blitzkrieg_2_-_fall_of_the_reich_20171002_(15371)-1.bin  85cee7b0	BAD 85cee7b0 != 20171002
 blitzkrieg_2_fall_of_the_reich/setup_blitzkrieg_2_-_fall_of_the_reich_20171002_(15371).exe  45d17e07	BAD 45d17e07 != 20171002
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_artworks.zip  e62cac91
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_avatars.zip  90a82fdc
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_manuals.zip  c720f20c
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_reference_guide.zip  9ef33fcb
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_soundtrack.zip  6e6f7a55
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_walkthrough.zip  73910ce1
+blitzkrieg_2_fall_of_the_reich.sfv/blitzkrieg_2_anthology_wallpapers.zip  9c57a552
+blitzkrieg_2_fall_of_the_reich.sfv/setup_blitzkrieg_2_-_fall_of_the_reich_20171002_(15371)-1.bin  85cee7b0
+blitzkrieg_2_fall_of_the_reich.sfv/setup_blitzkrieg_2_-_fall_of_the_reich_20171002_(15371).exe  45d17e07
 blitzkrieg_2_liberation/blitzkrieg_2_anthology_artworks.zip  e62cac91
 blitzkrieg_2_liberation/blitzkrieg_2_anthology_avatars.zip  90a82fdc
 blitzkrieg_2_liberation/blitzkrieg_2_anthology_manuals.zip  c720f20c
@@ -1965,6 +1984,10 @@ broforce/Broforce_OST.zip  fd4cd0f8
 broforce/broforce_avatars.zip  fb4c8364
 broforce/broforce_wallpaper.zip  885703e2
 broforce/setup_broforce_1130_20201008_(64bit)_(41822).exe  b3f66f41	BAD b3f66f41 != 20201008
+broforce.sfv/Broforce_OST.zip  fd4cd0f8
+broforce.sfv/broforce_avatars.zip  fb4c8364
+broforce.sfv/broforce_wallpaper.zip  885703e2
+broforce.sfv/setup_broforce_1130_20201008_(64bit)_(41822).exe  b3f66f41
 brok_the_investigator/brok_ost_flac.zip  b25877c1
 brok_the_investigator/brok_ost_mp3.zip  244e904f
 brok_the_investigator/setup_brok_the_investigator_-_soundtrack_1.0.1_(58292).exe  987882de
@@ -2045,6 +2068,13 @@ bulb_boy/bulb_boy_stickers.zip  74de2bae
 bulb_boy/bulb_boy_wallpapers.zip  eb49882d
 bulb_boy/setup_bulb_boy_64_20171019_(15778)-1.bin  78d8ea30	BAD 78d8ea30 != 20171019
 bulb_boy/setup_bulb_boy_64_20171019_(15778).exe  040cb678	BAD 040cb678 != 20171019
+bulb_boy.sfv/bulb_boy_ost_flac.zip  fb398531
+bulb_boy.sfv/bulb_boy_ost_mp3.zip  187fd6c8
+bulb_boy.sfv/bulb_boy_papercraft.zip  e75d8ce3
+bulb_boy.sfv/bulb_boy_stickers.zip  74de2bae
+bulb_boy.sfv/bulb_boy_wallpapers.zip  eb49882d
+bulb_boy.sfv/setup_bulb_boy_64_20171019_(15778)-1.bin  78d8ea30
+bulb_boy.sfv/setup_bulb_boy_64_20171019_(15778).exe  040cb678
 butcher/butcher_extended_soundtrack_mp3.zip  a1faff3c
 butcher/butcher_extended_soundtrack_ogg.zip  2c11368c
 butcher/butcher_wallpaper.zip  774433e4
@@ -2209,6 +2239,8 @@ cathedral/cathedral_ost.zip  1e873ac2
 cathedral/setup_cathedral_1.3.27_(64bit)_(45815).exe  2683fbc3
 catie_in_meowmeowland/setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224)-1.bin  39bf383b	BAD 39bf383b != fd5d1972
 catie_in_meowmeowland/setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224).exe  c5907312	BAD c5907312 != fd5d1972
+catie_in_meowmeowland.sfv/setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224)-1.bin  39bf383b
+catie_in_meowmeowland.sfv/setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224).exe  c5907312
 cattle_and_crops/setup_professional_farmer_cattle_and_crops_1.3.5.5_(64bit)_(45994)-1.bin  f6a97297
 cattle_and_crops/setup_professional_farmer_cattle_and_crops_1.3.5.5_(64bit)_(45994)-2.bin  492cf76e
 cattle_and_crops/setup_professional_farmer_cattle_and_crops_1.3.5.5_(64bit)_(45994).exe  5364a4af
@@ -3003,6 +3035,58 @@ cyberpunk_2077_game/wallpapers_en.zip  85f5fc00
 cyberpunk_2077_game/wallpapers_kr.zip  ae71cb16
 cyberpunk_2077_game/wallpapers_zhs.zip  a0caecdb
 cyberpunk_2077_game/wallpapers_zht.zip  b870c0f2
+cyberpunk_2077_game.sfv/additional_wallpapers_en.zip  5532b71a
+cyberpunk_2077_game.sfv/additional_wallpapers_kr.zip  d065591f
+cyberpunk_2077_game.sfv/additional_wallpapers_zhs.zip  71b7c6be
+cyberpunk_2077_game.sfv/additional_wallpapers_zht.zip  3d13903e
+cyberpunk_2077_game.sfv/concept_arts.zip  a0031a72
+cyberpunk_2077_game.sfv/cover_arts.zip  3606356b
+cyberpunk_2077_game.sfv/cyberpunk_2077_avatars.zip  23ae0523
+cyberpunk_2077_game.sfv/cyberpunk_2077_big_city_dreams.zip  bde884b9
+cyberpunk_2077_game.sfv/cyberpunk_2077_mobile_wallpapers.zip  9fd57096
+cyberpunk_2077_game.sfv/cyberpunk_2077_ost_flac.zip  a1d961f2
+cyberpunk_2077_game.sfv/cyberpunk_2077_ost_mp3.zip  8063557f
+cyberpunk_2077_game.sfv/cyberpunk_2077_ost_wav.zip  eecf03dc
+cyberpunk_2077_game.sfv/cyberpunk_2077_posters.zip  542682b4
+cyberpunk_2077_game.sfv/cyberpunk_2077_sourcebook_en.zip  aad53493
+cyberpunk_2077_game.sfv/cyberpunk_2077_sourcebook_pl.zip  7b7ce0ae
+cyberpunk_2077_game.sfv/gangs_graffiti.zip  3b437a8b
+cyberpunk_2077_game.sfv/posters.zip  6fe4971c
+cyberpunk_2077_game.sfv/screenshots.zip  97d074cd
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-1.bin  1823f390
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-10.bin  be8793d5
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-11.bin  6041c116
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-12.bin  4af5acf7
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-13.bin  31dbd593
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-14.bin  95ea2ab8
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-15.bin  14efd262
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-16.bin  48e7f02b
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-17.bin  36b49e2a
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-18.bin  20600050
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-19.bin  0b4e1d60
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-2.bin  6dabf8e0
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-20.bin  6e2d9a61
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-21.bin  9e6febcf
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-22.bin  7a5c0ea2
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-23.bin  d5b98c20
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-24.bin  088b1cd9
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-25.bin  648b6a36
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-26.bin  e382c1bb
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-27.bin  d484bf46
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-3.bin  d02ee6fa
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-4.bin  1c2fe1db
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-5.bin  64955a26
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-6.bin  e48e420b
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-7.bin  2ffb7a6c
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-8.bin  7e403841
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418)-9.bin  d9960d92
+cyberpunk_2077_game.sfv/setup_cyberpunk_2077_build_3906793change_4790877_(64bit)_(54418).exe  57ede333
+cyberpunk_2077_game.sfv/steelbook_arts.zip  0d854e75
+cyberpunk_2077_game.sfv/wallpapers.zip  b78f901d
+cyberpunk_2077_game.sfv/wallpapers_en.zip  85f5fc00
+cyberpunk_2077_game.sfv/wallpapers_kr.zip  ae71cb16
+cyberpunk_2077_game.sfv/wallpapers_zhs.zip  a0caecdb
+cyberpunk_2077_game.sfv/wallpapers_zht.zip  b870c0f2
 cyclemania/setup_cyclemania_1.0_(42680).exe  94f97e8c
 d4_dark_dreams_dont_die/d4_artbook.zip  416b4bc4
 d4_dark_dreams_dont_die/d4_avatars.zip  a98e7263
@@ -3024,6 +3108,10 @@ daggerfall_unity_gog_cut/daggerfall_unity_manual_pdf.zip  8c3ebff7
 daggerfall_unity_gog_cut/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-1.bin  7b7f2054	BAD 7b7f2054 != 20220617
 daggerfall_unity_gog_cut/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-2.bin  b2276f0d	BAD b2276f0d != 20220617
 daggerfall_unity_gog_cut/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627).exe  33fce87a	BAD 33fce87a != 20220617
+daggerfall_unity_gog_cut.sfv/daggerfall_unity_manual_pdf.zip  8c3ebff7
+daggerfall_unity_gog_cut.sfv/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-1.bin  7b7f2054
+daggerfall_unity_gog_cut.sfv/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-2.bin  b2276f0d
+daggerfall_unity_gog_cut.sfv/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627).exe  33fce87a
 dagon_by_h_p_lovecraft/dagon_audiobooks.zip  52462a12
 dagon_by_h_p_lovecraft/dagon_ebooks.zip  30229295
 dagon_by_h_p_lovecraft/dagon_the_eldritch_box_dlc_audiobooks.zip  0430ec6a
@@ -3177,6 +3265,14 @@ darwinia/darwinia_team_photos.zip  7b15575e
 darwinia/darwinia_wallpaper.ZIP  c150081a
 darwinia/setup_darwinia_1.0_(20792).exe  93caae84
 darwinia/setup_darwinia_2.2.0-292-g7eaef84c-windows-full_(64bit)_(56379).exe  8e1b7232	BAD 8e1b7232 != 7eaef84c
+darwinia.sfv/darwinia_avatars.zip  52b87012
+darwinia.sfv/darwinia_behind_the_scenes.zip  f79b8129
+darwinia.sfv/darwinia_manual.zip  628134b7
+darwinia.sfv/darwinia_soundtrack.zip  88736857
+darwinia.sfv/darwinia_team_photos.zip  7b15575e
+darwinia.sfv/darwinia_wallpaper.ZIP  c150081a
+darwinia.sfv/setup_darwinia_1.0_(20792).exe  93caae84
+darwinia.sfv/setup_darwinia_2.2.0-292-g7eaef84c-windows-full_(64bit)_(56379).exe  8e1b7232
 das_boot_german_uboat_simulation/das_boot_manual_v3.zip  e9517da6
 das_boot_german_uboat_simulation/das_boot_quickstart_guide.zip  138c12e5
 das_boot_german_uboat_simulation/setup_das_boot_german_u-boat_simulation_1.0_(50957).exe  2bf3652e
@@ -3675,6 +3771,12 @@ disco_elysium/setup_disco_elysium_406890b8_(64bit)_(56954)-1.bin  be8ce04b	BAD b
 disco_elysium/setup_disco_elysium_406890b8_(64bit)_(56954)-2.bin  51b4554d	BAD 51b4554d != 406890b8
 disco_elysium/setup_disco_elysium_406890b8_(64bit)_(56954)-3.bin  f35b25de	BAD f35b25de != 406890b8
 disco_elysium/setup_disco_elysium_406890b8_(64bit)_(56954).exe  e7ad2a0b	BAD e7ad2a0b != 406890b8
+disco_elysium.sfv/disco_elysium_artbooklet.zip  437e5c4e
+disco_elysium.sfv/disco_elysium_wallpapers.zip  24e4032e
+disco_elysium.sfv/setup_disco_elysium_406890b8_(64bit)_(56954)-1.bin  be8ce04b
+disco_elysium.sfv/setup_disco_elysium_406890b8_(64bit)_(56954)-2.bin  51b4554d
+disco_elysium.sfv/setup_disco_elysium_406890b8_(64bit)_(56954)-3.bin  f35b25de
+disco_elysium.sfv/setup_disco_elysium_406890b8_(64bit)_(56954).exe  e7ad2a0b
 discoveries_of_the_deep/discoveries_of_the_deep_manual.zip  b236a0b7
 discoveries_of_the_deep/discoveries_of_the_deep_quick_start_guide.zip  18f830e7
 discoveries_of_the_deep/setup_discoveries_of_the_deep_1.03_(46047).exe  a03fe767
@@ -3836,6 +3938,7 @@ donut_county/setup_donut_county_1.1.0_(64bit)_(25035).exe  55ab635e
 doom_3_bfg_edition_game/setup_doom_3_bfg_1.14_(13452)-1.bin  a80082ab
 doom_3_bfg_edition_game/setup_doom_3_bfg_1.14_(13452).exe  c7a69aad
 doom_64/setup_doom_64_20220523_(56385).exe  8b5ca73d	BAD 8b5ca73d != 20220523
+doom_64.sfv/setup_doom_64_20220523_(56385).exe  8b5ca73d
 doom_i_enhanced/setup_doom_i_enhanced_1.0_(64bit)_(58062)-1.bin  17106757
 doom_i_enhanced/setup_doom_i_enhanced_1.0_(64bit)_(58062).exe  27decd8e
 doom_ii_enhanced/setup_doom_ii_enhanced_1.0_(64bit)_(58062)-1.bin  c843354c
@@ -4320,9 +4423,20 @@ edna_harvey_the_breakout/setup_edna__harvey_the_breakout_1.4.20120804_(44129)-1.
 edna_harvey_the_breakout/setup_edna__harvey_the_breakout_1.4.20120804_(44129).exe  a377966b	BAD a377966b != 20120804
 edna_harvey_the_breakout/the_breakout_ost_flac.zip  de06365f
 edna_harvey_the_breakout/the_breakout_ost_mp3.zip  c7e2ce8e
+edna_harvey_the_breakout.sfv/edna_and_harvey_artworks.zip  10c10781
+edna_harvey_the_breakout.sfv/edna_and_harvey_avatars.zip  c43c0f0d
+edna_harvey_the_breakout.sfv/edna_and_harvey_music_video.zip  c3ae6d75
+edna_harvey_the_breakout.sfv/edna_and_harvey_wallpapers.zip  9dd705ee
+edna_harvey_the_breakout.sfv/setup_edna__harvey_the_breakout_1.4.20120804_(44129)-1.bin  93e836d5
+edna_harvey_the_breakout.sfv/setup_edna__harvey_the_breakout_1.4.20120804_(44129).exe  a377966b
+edna_harvey_the_breakout.sfv/the_breakout_ost_flac.zip  de06365f
+edna_harvey_the_breakout.sfv/the_breakout_ost_mp3.zip  c7e2ce8e
 edna_harvey_the_breakout_anniversary_edition/edna_harvey_breakout_anniversary_ost_flac.zip  57eba771
 edna_harvey_the_breakout_anniversary_edition/edna_harvey_breakout_anniversary_ost_mp3.zip  166a8019
 edna_harvey_the_breakout_anniversary_edition/setup_edna__harvey_the_breakout_-_anniversary_edition_0.19120402_(35601).exe  872de5c4	BAD 872de5c4 != 19120402
+edna_harvey_the_breakout_anniversary_edition.sfv/edna_harvey_breakout_anniversary_ost_flac.zip  57eba771
+edna_harvey_the_breakout_anniversary_edition.sfv/edna_harvey_breakout_anniversary_ost_mp3.zip  166a8019
+edna_harvey_the_breakout_anniversary_edition.sfv/setup_edna__harvey_the_breakout_-_anniversary_edition_0.19120402_(35601).exe  872de5c4
 egypt_old_kingdom/egypt_old_kingdom_artbook_cn.zip  955f5317
 egypt_old_kingdom/egypt_old_kingdom_artbook_de.zip  3b78892a
 egypt_old_kingdom/egypt_old_kingdom_artbook_en.zip  510bd053
@@ -4628,8 +4742,12 @@ even_the_ocean/setup_even_the_ocean_1.024_(38261).exe  2ae8b7dd
 evenicle/setup_evenicle_1.04_(50001).exe  5cea3cdf
 evenicle_2/setup_evenicle_2_1.0_(20211214_master)_(56407)-1.bin  f6be6ff6	BAD f6be6ff6 != 20211214
 evenicle_2/setup_evenicle_2_1.0_(20211214_master)_(56407).exe  c60a9974	BAD c60a9974 != 20211214
+evenicle_2.sfv/setup_evenicle_2_1.0_(20211214_master)_(56407)-1.bin  f6be6ff6
+evenicle_2.sfv/setup_evenicle_2_1.0_(20211214_master)_(56407).exe  c60a9974
 event0/setup_event0_169221(20171207)_(16957)-1.bin  e002be4d	BAD e002be4d != 20171207
 event0/setup_event0_169221(20171207)_(16957).exe  a51469a0	BAD a51469a0 != 20171207
+event0.sfv/setup_event0_169221(20171207)_(16957)-1.bin  e002be4d
+event0.sfv/setup_event0_169221(20171207)_(16957).exe  a51469a0
 ever_forward/setup_ever_forward_-_additional_puzzle_version_0_1_5_(64bit)_(40640).exe  ae684e0d
 ever_forward/setup_ever_forward_version_0_1_5_(64bit)_(40640)-1.bin  692ba9eb
 ever_forward/setup_ever_forward_version_0_1_5_(64bit)_(40640).exe  832053d8
@@ -4855,6 +4973,10 @@ fantasy_general/fg_handbuch.zip  85a6b469
 fantasy_general/fg_manual.zip  ac4378f0
 fantasy_general/fg_soundtrack.zip  743f2655
 fantasy_general/setup_fantasy_general_1.0_20211006_(50527).exe  ae53fc95	BAD ae53fc95 != 20211006
+fantasy_general.sfv/fg_handbuch.zip  85a6b469
+fantasy_general.sfv/fg_manual.zip  ac4378f0
+fantasy_general.sfv/fg_soundtrack.zip  743f2655
+fantasy_general.sfv/setup_fantasy_general_1.0_20211006_(50527).exe  ae53fc95
 fantasy_general_ii/fantasy_general_II_artbook.zip  56d024c8
 fantasy_general_ii/fantasy_general_II_content_editor_manual.zip  5805b0b7
 fantasy_general_ii/fantasy_general_II_manual.zip  316d4fe6
@@ -5159,6 +5281,11 @@ freedom_planet/freedom_planet_characters.zip  c0c3fc05
 freedom_planet/freedom_planet_sketches.zip  7908b002
 freedom_planet/freedom_planet_wallpapers.zip  65f7c7f0
 freedom_planet/setup_freedom_planet_1.21.5_(20180831)_(23366).exe  aad10781	BAD aad10781 != 20180831
+freedom_planet.sfv/freedom_planet_avatars.zip  50ce1f88
+freedom_planet.sfv/freedom_planet_characters.zip  c0c3fc05
+freedom_planet.sfv/freedom_planet_sketches.zip  7908b002
+freedom_planet.sfv/freedom_planet_wallpapers.zip  65f7c7f0
+freedom_planet.sfv/setup_freedom_planet_1.21.5_(20180831)_(23366).exe  aad10781
 freeman_guerrilla_warfare/setup_freeman_guerrilla_warfare_1.32_(34857)-1.bin  c662dafb
 freeman_guerrilla_warfare/setup_freeman_guerrilla_warfare_1.32_(34857)-2.bin  5210c597
 freeman_guerrilla_warfare/setup_freeman_guerrilla_warfare_1.32_(34857)-3.bin  be82a582
@@ -5323,6 +5450,15 @@ gamedec/setup_gamedec_20220519_1.5.1.r46707_(64bit)_(55927).exe  465a89ad	BAD 46
 gamedec/setup_gamedec_dafne_bennet_-_new_character_20220519_1.5.1.r46707_(64bit)_(55927).exe  c3902670	BAD c3902670 != 20220519
 gamedec/setup_gamedec_izmael_krostov_-_new_character_20220519_1.5.1.r46707_(64bit)_(55927).exe  4260e00a	BAD 4260e00a != 20220519
 gamedec/the_art_of_gamedec.zip  23154e7f
+gamedec.sfv/gamedec_digital_guidebook.zip  42f78219
+gamedec.sfv/gamedec_digital_soundtrack_wav.zip  440c54df
+gamedec.sfv/setup_gamedec_-_torkil_aymore_skin_20220519_1.5.1.r46707_(64bit)_(55927).exe  06e5b07f
+gamedec.sfv/setup_gamedec_20220519_1.5.1.r46707_(64bit)_(55927)-1.bin  82296983
+gamedec.sfv/setup_gamedec_20220519_1.5.1.r46707_(64bit)_(55927)-2.bin  884514e3
+gamedec.sfv/setup_gamedec_20220519_1.5.1.r46707_(64bit)_(55927).exe  465a89ad
+gamedec.sfv/setup_gamedec_dafne_bennet_-_new_character_20220519_1.5.1.r46707_(64bit)_(55927).exe  c3902670
+gamedec.sfv/setup_gamedec_izmael_krostov_-_new_character_20220519_1.5.1.r46707_(64bit)_(55927).exe  4260e00a
+gamedec.sfv/the_art_of_gamedec.zip  23154e7f
 gangland/gangland_artwork.zip  b1113b2b
 gangland/gangland_manual.zip  cbffe389
 gangland/gangland_ref_card.zip  048db0f2
@@ -5418,6 +5554,14 @@ ghost_master/ghost_master_screensaver.zip  1880ce9e
 ghost_master/ghost_master_soundtrack.zip  eb1e0c38
 ghost_master/ghost_master_wallpapers.zip  62a83ecd
 ghost_master/setup_ghost_master_20171020_(15806).exe  03df867b	BAD 03df867b != 20171020
+ghost_master.sfv/ghost_master_artworks.zip  41e158c9
+ghost_master.sfv/ghost_master_avatars.zip  d8a7f672
+ghost_master.sfv/ghost_master_manual.zip  fe12a20c
+ghost_master.sfv/ghost_master_manual_pl.zip  297bd791
+ghost_master.sfv/ghost_master_screensaver.zip  1880ce9e
+ghost_master.sfv/ghost_master_soundtrack.zip  eb1e0c38
+ghost_master.sfv/ghost_master_wallpapers.zip  62a83ecd
+ghost_master.sfv/setup_ghost_master_20171020_(15806).exe  03df867b
 ghost_of_a_tale/setup_ghost_of_a_tale_833_(28317)-1.bin  6996935e
 ghost_of_a_tale/setup_ghost_of_a_tale_833_(28317).exe  7ea0f9aa
 ghost_on_the_shore/setup_ghost_on_the_shore_1.1.6.8292_(64bit)_(55066)-1.bin  96cb3932
@@ -5900,6 +6044,12 @@ headlander/headlander_posters.zip  4f45700a
 headlander/headlander_wallpapers.zip  5a36a4c4
 headlander/setup_headlander_20161205_(12563)-1.bin  13afc900	BAD 13afc900 != 20161205
 headlander/setup_headlander_20161205_(12563).exe  fbd42965	BAD fbd42965 != 20161205
+headlander.sfv/headlander_avatars.zip  d33f112b
+headlander.sfv/headlander_ost_mp3.zip  a759e16b
+headlander.sfv/headlander_posters.zip  4f45700a
+headlander.sfv/headlander_wallpapers.zip  5a36a4c4
+headlander.sfv/setup_headlander_20161205_(12563)-1.bin  13afc900
+headlander.sfv/setup_headlander_20161205_(12563).exe  fbd42965
 heart_of_china/heart_of_china_hint_book.zip  a6bf197c
 heart_of_china/heart_of_china_manual.zip  9662d340
 heart_of_china/heart_of_china_reference_card.zip  90156073
@@ -6099,6 +6249,10 @@ herou_rogue_to_redemption/herou_rogue_to_redemption_bestiary.zip  3f3f0012
 herou_rogue_to_redemption/herou_rogue_to_redemption_handbook.zip  2ad176e0
 herou_rogue_to_redemption/herou_rogue_to_redemption_manual.zip  a9533549
 herou_rogue_to_redemption/setup_hero-u_rogue_to_redemption_20210817_(49368).exe  3a1b7ee8	BAD 3a1b7ee8 != 20210817
+herou_rogue_to_redemption.sfv/herou_rogue_to_redemption_bestiary.zip  3f3f0012
+herou_rogue_to_redemption.sfv/herou_rogue_to_redemption_handbook.zip  2ad176e0
+herou_rogue_to_redemption.sfv/herou_rogue_to_redemption_manual.zip  a9533549
+herou_rogue_to_redemption.sfv/setup_hero-u_rogue_to_redemption_20210817_(49368).exe  3a1b7ee8
 hexen_beyond_heretic/setup_hexen_beyond_heretic_1.1_(42801).exe  1f0f4965
 hexen_deathkings_of_the_dark_citadel/setup_hexen_deathkings_of_the_dark_citadel_1.1_(42970).exe  6bd3d8bb
 hexen_ii/setup_hexen_ii_1.11_music_fix_(45370).exe  a9b13b1f
@@ -6173,6 +6327,16 @@ hitman/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-
 hitman/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-7.bin  8e1de3a0	BAD 8e1de3a0 != d5153278
 hitman/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-8.bin  da9a31b1	BAD da9a31b1 != d5153278
 hitman/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904).exe  68cdcf64	BAD 68cdcf64 != d5153278
+hitman.sfv/setup_hitman_1_game_of_the_year_edition_dlc_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904).exe  ff4bb3fd
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-1.bin  34fda4bb
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-2.bin  50e6439a
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-3.bin  729d9b36
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-4.bin  2b534b27
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-5.bin  0a143f52
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-6.bin  4ade263e
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-7.bin  8e1de3a0
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904)-8.bin  da9a31b1
+hitman.sfv/setup_hitman_base-s1-del02_gog-codecl1686781-assetcl-id5153278-dkcbld120-m-desktop_(64bit)_(49904).exe  68cdcf64
 hitman_2_silent_assassin/hitman_2_avatars.zip  20a37801
 hitman_2_silent_assassin/hitman_2_manual.zip  01c5f43f
 hitman_2_silent_assassin/hitman_2_wallpapers.zip  fe934a53
@@ -6608,6 +6772,10 @@ inked/inked_digital_artbook.zip  cd16ac35
 inked/inked_soundtrack_flac.zip  4a59b553
 inked/inked_soundtrack_mp3.zip  41230795
 inked/setup_inked_20180528-1_(24344).exe  ef9092b8	BAD ef9092b8 != 20180528
+inked.sfv/inked_digital_artbook.zip  cd16ac35
+inked.sfv/inked_soundtrack_flac.zip  4a59b553
+inked.sfv/inked_soundtrack_mp3.zip  41230795
+inked.sfv/setup_inked_20180528-1_(24344).exe  ef9092b8
 inmost/setup_inmost_1.0.4_(64bit)_(43336).exe  d2ef2176
 inner_chains/innerchains_artbook.zip  ceed114c
 inner_chains/innerchains_poster.zip  4d78cb5a
@@ -6657,6 +6825,9 @@ insurmountable/setup_insurmountable_2.0.7.3_(57585).exe  bab10d86
 interrogation_you_will_be_deceived/interrogation_soundtrack_flac.zip  07879214
 interrogation_you_will_be_deceived/interrogation_soundtrack_mp3.zip  9d9acd8a
 interrogation_you_will_be_deceived/setup_interrogation_you_will_be_deceived_1.1.9.a1704342_(64bit)_(39944).exe  e2a4a819	BAD e2a4a819 != a1704342
+interrogation_you_will_be_deceived.sfv/interrogation_soundtrack_flac.zip  07879214
+interrogation_you_will_be_deceived.sfv/interrogation_soundtrack_mp3.zip  9d9acd8a
+interrogation_you_will_be_deceived.sfv/setup_interrogation_you_will_be_deceived_1.1.9.a1704342_(64bit)_(39944).exe  e2a4a819
 interstate_76/Interstate_76_Manual.zip  44a19f90
 interstate_76/interstate_wallpaper.zip  41bb123e
 interstate_76/setup_interstate76_2.1.0.17.exe  34a918b0
@@ -6892,6 +7063,11 @@ julia_among_the_stars/julia_ats_ost_mp3.zip  dc0049d3
 julia_among_the_stars/julia_ats_user_guide.zip  624dfe81
 julia_among_the_stars/setup_j.u.l.i.a._among_the_stars_20170605_(12513)-1.bin  de3bcb3d	BAD de3bcb3d != 20170605
 julia_among_the_stars/setup_j.u.l.i.a._among_the_stars_20170605_(12513).exe  1e39728b	BAD 1e39728b != 20170605
+julia_among_the_stars.sfv/julia_ats_hintbook.zip  35e4aa25
+julia_among_the_stars.sfv/julia_ats_ost_mp3.zip  dc0049d3
+julia_among_the_stars.sfv/julia_ats_user_guide.zip  624dfe81
+julia_among_the_stars.sfv/setup_j.u.l.i.a._among_the_stars_20170605_(12513)-1.bin  de3bcb3d
+julia_among_the_stars.sfv/setup_j.u.l.i.a._among_the_stars_20170605_(12513).exe  1e39728b
 jump_king/jump_king_soundtrack_mp3.zip  754cee00
 jump_king/setup_jump_king_g1.06(2021-01-22)_(44368)-1.bin  6e5f80d4
 jump_king/setup_jump_king_g1.06(2021-01-22)_(44368).exe  c596c6e8
@@ -7383,6 +7559,9 @@ last_rites/setup_last_rites_0.4_(41129).exe  212db6bb
 late_shift/setup_late_shift_20200107_(35388)-1.bin  fe785d6c	BAD fe785d6c != 20200107
 late_shift/setup_late_shift_20200107_(35388)-2.bin  8357aab2	BAD 8357aab2 != 20200107
 late_shift/setup_late_shift_20200107_(35388).exe  57297335	BAD 57297335 != 20200107
+late_shift.sfv/setup_late_shift_20200107_(35388)-1.bin  fe785d6c
+late_shift.sfv/setup_late_shift_20200107_(35388)-2.bin  8357aab2
+late_shift.sfv/setup_late_shift_20200107_(35388).exe  57297335
 later_daters/setup_later_daters_1.2_(49074).exe  31ccd6f5
 layers_of_fear/layers_of_fear_avatar_jpg.zip  86359d66
 layers_of_fear/layers_of_fear_wallpaper_jpg.zip  dd0f91b3
@@ -7751,6 +7930,8 @@ little_nightmares_ii/setup_little_nightmares_ii__the_nomes_attic_1165_(64bit)_(5
 littlewood/setup_littlewood_1.026_(40735).exe  985d289e
 locks_quest/Soundtrack_Locks_Quest.zip  696ba062
 locks_quest/setup_locks_quest_20170716_(21831).exe  fcb76285	BAD fcb76285 != 20170716
+locks_quest.sfv/Soundtrack_Locks_Quest.zip  696ba062
+locks_quest.sfv/setup_locks_quest_20170716_(21831).exe  fcb76285
 london_detective_mysteria/london_detective_mysteria_soundtrack.zip  cb0cd372
 london_detective_mysteria/setup_london_detective_mysteria_1.6_(32032)-1.bin  8a83f1d4
 london_detective_mysteria/setup_london_detective_mysteria_1.6_(32032).exe  3066b113
@@ -8534,6 +8715,7 @@ mob_rule/setup_mob_rule_1.0_(10186).exe  f261fdb3
 mobile_forces/Mobile_Forces_Manual.zip  2bf7d38e
 mobile_forces/setup_mobile_forces_20000_(19332).exe  b71a1b3d
 mobius_front_83/setup_mobius_front_83_03012021_(64bit)_(45295).exe  09c80772	BAD 09c80772 != 03012021
+mobius_front_83.sfv/setup_mobius_front_83_03012021_(64bit)_(45295).exe  09c80772
 moebius/moebius_avatar.zip  7b2c47e9
 moebius/moebius_ost_flac.zip  9ae835b9
 moebius/moebius_ost_mp3.zip  059bc55f
@@ -8741,6 +8923,11 @@ my_time_at_portia/my_time_at_portia_ost_mp3.zip  eaa9a9f1
 my_time_at_portia/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522)-1.bin  d9b0699c	BAD d9b0699c != 20210813
 my_time_at_portia/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522)-2.bin  b1821926	BAD b1821926 != 20210813
 my_time_at_portia/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522).exe  b2ea7683	BAD b2ea7683 != 20210813
+my_time_at_portia.sfv/my_time_at_portia_5120x2880.jpg  10fa0e21
+my_time_at_portia.sfv/my_time_at_portia_ost_mp3.zip  eaa9a9f1
+my_time_at_portia.sfv/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522)-1.bin  d9b0699c
+my_time_at_portia.sfv/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522)-2.bin  b1821926
+my_time_at_portia.sfv/setup_my_time_at_portia_20210813-1123-141541_(64bit)_(49522).exe  b2ea7683
 myst/setup_myst_1.7.0_(64bit)_(52177)-1.bin  634e103e
 myst/setup_myst_1.7.0_(64bit)_(52177)-2.bin  64739ccb
 myst/setup_myst_1.7.0_(64bit)_(52177)-3.bin  eaf08e1f
@@ -9045,6 +9232,13 @@ noita/noita_ost_vol2_mp3.zip  c8b3b977
 noita/noita_ost_vol2_wav.zip  f0ed92d0
 noita/noita_ost_wav.zip  7183b396
 noita/setup_noita_20210423-1929_(46552).exe  4b456736	BAD 4b456736 != 20210423
+noita.sfv/noita_ost_flac.zip  c63d0464
+noita.sfv/noita_ost_mp3.zip  49a1dbc1
+noita.sfv/noita_ost_vol2_flac.zip  bce02f91
+noita.sfv/noita_ost_vol2_mp3.zip  c8b3b977
+noita.sfv/noita_ost_vol2_wav.zip  f0ed92d0
+noita.sfv/noita_ost_wav.zip  7183b396
+noita.sfv/setup_noita_20210423-1929_(46552).exe  4b456736
 nomads_of_driftland/setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177)-1.bin  235c559a
 nomads_of_driftland/setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe  48c8daea
 nomads_of_driftland/setup_nomads_of_driftland_the_forgotten_passage_nomads_1.0.48a_(64bit)_(44177).exe  631f08fe
@@ -9250,6 +9444,12 @@ omikron_the_nomad_soul/omikron_making_of.zip  d246ea89
 omikron_the_nomad_soul/omikron_manual.zip  d8edad70
 omikron_the_nomad_soul/omikron_wallpaper.zip  7cb2ee42
 omikron_the_nomad_soul/setup_omikron_-_the_nomad_soul_20171004_(15415).exe  02ae6ea6	BAD 02ae6ea6 != 20171004
+omikron_the_nomad_soul.sfv/omikron_avatar.zip  e3cf9044
+omikron_the_nomad_soul.sfv/omikron_concept_art.zip  1d5dffff
+omikron_the_nomad_soul.sfv/omikron_making_of.zip  d246ea89
+omikron_the_nomad_soul.sfv/omikron_manual.zip  d8edad70
+omikron_the_nomad_soul.sfv/omikron_wallpaper.zip  7cb2ee42
+omikron_the_nomad_soul.sfv/setup_omikron_-_the_nomad_soul_20171004_(15415).exe  02ae6ea6
 omnibus/omnibus_ost_mp3.zip  e14baa0b
 omnibus/setup_omnibus_2.2.0.5.exe  7c01de29
 on_rusty_trails/on_rusty_trails_artwork.zip  6dcee6c6
@@ -9295,6 +9495,11 @@ opus_rocket_of_whispers/opus_rocket_of_whispers_map.zip  162a41dc
 opus_rocket_of_whispers/opus_rocket_of_whispers_original_soundtrack_mp3.zip  abfc41db
 opus_rocket_of_whispers/opus_rocket_of_whispers_original_soundtrack_wav.zip  243d692e
 opus_rocket_of_whispers/setup_opus_rocket_of_whispers_v4.8.1_r9_3f9cbb39_(64bit)_(51875).exe  c61d121d	BAD c61d121d != 3f9cbb39
+opus_rocket_of_whispers.sfv/opus_rocket_of_whispers_artbook.zip  a7fc77aa
+opus_rocket_of_whispers.sfv/opus_rocket_of_whispers_map.zip  162a41dc
+opus_rocket_of_whispers.sfv/opus_rocket_of_whispers_original_soundtrack_mp3.zip  abfc41db
+opus_rocket_of_whispers.sfv/opus_rocket_of_whispers_original_soundtrack_wav.zip  243d692e
+opus_rocket_of_whispers.sfv/setup_opus_rocket_of_whispers_v4.8.1_r9_3f9cbb39_(64bit)_(51875).exe  c61d121d
 opus_the_day_we_found_earth/opus_the_day_we_found_earth_soundtrack_mp3.zip  d6ed50c5
 opus_the_day_we_found_earth/opus_the_day_we_found_earth_soundtrack_wav.zip  19c369c2
 opus_the_day_we_found_earth/setup_opus_the_day_we_found_earth_v3.4.3_r11_4534f4c_(64bit)_(51551).exe  7fee01e6
@@ -9706,6 +9911,10 @@ paws_a_shelter_2_game/paws_ost_flac.zip  38cf4a2c
 paws_a_shelter_2_game/paws_ost_mp3.zip  29e16955
 paws_a_shelter_2_game/setup_paws_a_shelter_2_game_20170511_(13039).exe  07b33e10	BAD 07b33e10 != 20170511
 paws_a_shelter_2_game/setup_paws_upgrade_to_pitter_patter_edition_2.0.0.2.exe  98939500
+paws_a_shelter_2_game.sfv/paws_ost_flac.zip  38cf4a2c
+paws_a_shelter_2_game.sfv/paws_ost_mp3.zip  29e16955
+paws_a_shelter_2_game.sfv/setup_paws_a_shelter_2_game_20170511_(13039).exe  07b33e10
+paws_a_shelter_2_game.sfv/setup_paws_upgrade_to_pitter_patter_edition_2.0.0.2.exe  98939500
 pax_imperia_eminent_domain/pax_imperia_manual.zip  14e8096d
 pax_imperia_eminent_domain/pax_imperia_ost_mp3.zip  67dd69b3
 pax_imperia_eminent_domain/setup_pax_imperia_2.0.0.12.exe  462b4d4d
@@ -9751,6 +9960,8 @@ per_aspera/setup_per_aspera_v.1.7.2.19523.2022.6.6_(64bit)_(56368)-1.bin  42b5f4
 per_aspera/setup_per_aspera_v.1.7.2.19523.2022.6.6_(64bit)_(56368).exe  70b6d81e
 perception/setup_perception_20170529_(12367)-1.bin  0964c3a3	BAD 0964c3a3 != 20170529
 perception/setup_perception_20170529_(12367).exe  1b2e825a	BAD 1b2e825a != 20170529
+perception.sfv/setup_perception_20170529_(12367)-1.bin  0964c3a3
+perception.sfv/setup_perception_20170529_(12367).exe  1b2e825a
 perimeter/perimeter_arts.zip  6cb26728
 perimeter/perimeter_manual.zip  d61b4d0a
 perimeter/perimeter_walkthrough_video.zip  9b179d44
@@ -9784,6 +9995,8 @@ phantom_doctrine/setup_phantom_doctrine_1.1_(64bit)_(27370)-4.bin  539394a8
 phantom_doctrine/setup_phantom_doctrine_1.1_(64bit)_(27370).exe  5b63c137
 phantom_trigger/phantom_trigger_wallpaper.zip  c13987ca
 phantom_trigger/setup_phantom_trigger_12082017_(30850).exe  096aef4e	BAD 096aef4e != 12082017
+phantom_trigger.sfv/phantom_trigger_wallpaper.zip  c13987ca
+phantom_trigger.sfv/setup_phantom_trigger_12082017_(30850).exe  096aef4e
 pharaoh_cleopatra/pharaoh_cleopatra_avatars.zip  c4afbe30
 pharaoh_cleopatra/pharaoh_cleopatra_manuals.zip  dcc5530a
 pharaoh_cleopatra/pharaoh_cleopatra_mission_edittor_guide.zip  55b0a898
@@ -9888,6 +10101,8 @@ pinball_world/pinball_world_soundtrack.zip  506c043b
 pinball_world/setup_pinball_world_1.0_(28044).exe  5c2f5c88
 pine/setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599)-1.bin  110a7381	BAD 110a7381 != ef57f2e2
 pine/setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599).exe  aeac0e80	BAD aeac0e80 != ef57f2e2
+pine.sfv/setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599)-1.bin  110a7381
+pine.sfv/setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599).exe  aeac0e80
 pinstripe/pinstripe_artbook.zip  94315da1
 pinstripe/pinstripe_avatar.zip  43939e79
 pinstripe/pinstripe_desktop_wallpaper.zip  ff3de1b0
@@ -9946,6 +10161,7 @@ planet_nomads/planet_nomads_wallpapers.zip  f8eaf336
 planet_nomads/setup_planet_nomads_1.0.7.2_(44440)-1.bin  03c51591
 planet_nomads/setup_planet_nomads_1.0.7.2_(44440).exe  66115fe4
 planetary_dustoff/setup_planetary_dustoff_5ca7d7af_1.0.0.1004_dec_15_2019_(34675).exe  6dfcefe7	BAD 6dfcefe7 != 5ca7d7af
+planetary_dustoff.sfv/setup_planetary_dustoff_5ca7d7af_1.0.0.1004_dec_15_2019_(34675).exe  6dfcefe7
 planetbase/patch_planetbase_1.3.7_(38217)_to_1.3.8_(45490).exe  6f5718ac
 planetbase/planetbase_soundtrack.zip  9f19a337
 planetbase/planetbase_wallpaper.zip  abac1e57
@@ -10104,6 +10320,8 @@ praetorians/praetorians_wallpaper.zip  4a312cf2
 praetorians/setup_praetorians_1.04_(19402).exe  3c37b6ba
 praetorians_hd/setup_praetorians_hd_20200527_(64bit)_(38601)-1.bin  7d8af5b7	BAD 7d8af5b7 != 20200527
 praetorians_hd/setup_praetorians_hd_20200527_(64bit)_(38601).exe  bd2b3262	BAD bd2b3262 != 20200527
+praetorians_hd.sfv/setup_praetorians_hd_20200527_(64bit)_(38601)-1.bin  7d8af5b7
+praetorians_hd.sfv/setup_praetorians_hd_20200527_(64bit)_(38601).exe  bd2b3262
 pray_for_death/pray_for_death_manual.zip  bbacd64f
 pray_for_death/setup_pray_for_death_2.0.0.3.exe  68c72174
 predynastic_egypt/setup_predynastic_egypt_1.0.11_(44170).exe  a1f4502a
@@ -10125,6 +10343,21 @@ prey/setup_prey_mooncrash_10966486_(64bit)_(38551)-2.bin  ea288647	BAD ea288647 
 prey/setup_prey_mooncrash_10966486_(64bit)_(38551)-3.bin  01136b0f	BAD 01136b0f != 10966486
 prey/setup_prey_mooncrash_10966486_(64bit)_(38551)-4.bin  0c29605d	BAD 0c29605d != 10966486
 prey/setup_prey_mooncrash_10966486_(64bit)_(38551).exe  ed0e8c80	BAD ed0e8c80 != 10966486
+prey.sfv/prey_ost_mp3.zip  0dd82960
+prey.sfv/prey_ost_wav.zip  b85ea423
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-1.bin  684f7b5c
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-2.bin  1e7903eb
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-3.bin  ab96c4fe
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-4.bin  52378271
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-5.bin  579839cb
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-6.bin  536831e6
+prey.sfv/setup_prey_10966486_(64bit)_(38551)-7.bin  b31ea1b5
+prey.sfv/setup_prey_10966486_(64bit)_(38551).exe  a1f10240
+prey.sfv/setup_prey_mooncrash_10966486_(64bit)_(38551)-1.bin  8af54f71
+prey.sfv/setup_prey_mooncrash_10966486_(64bit)_(38551)-2.bin  ea288647
+prey.sfv/setup_prey_mooncrash_10966486_(64bit)_(38551)-3.bin  01136b0f
+prey.sfv/setup_prey_mooncrash_10966486_(64bit)_(38551)-4.bin  0c29605d
+prey.sfv/setup_prey_mooncrash_10966486_(64bit)_(38551).exe  ed0e8c80
 primordia/primordia_artworks.zip  4fd2d955
 primordia/primordia_fallen_novella.zip  1b73c151
 primordia/primordia_fallen_novella_german.zip  195ad48f
@@ -10209,6 +10442,12 @@ project_eden/project_eden_manual.zip  2aaf2002
 project_eden/project_eden_manual_fr.zip  d7248bc0
 project_eden/project_eden_wallpapers.zip  e4116c83
 project_eden/setup_project_eden_09082017_(14075).exe  e550fc3f	BAD e550fc3f != 09082017
+project_eden.sfv/project_eden_avatars.zip  045e4d54
+project_eden.sfv/project_eden_concept_art.zip  f841e9bf
+project_eden.sfv/project_eden_manual.zip  2aaf2002
+project_eden.sfv/project_eden_manual_fr.zip  d7248bc0
+project_eden.sfv/project_eden_wallpapers.zip  e4116c83
+project_eden.sfv/setup_project_eden_09082017_(14075).exe  e550fc3f
 project_highrise/setup_project_highrise_1.6.3_(26636).exe  0bc1e44a
 project_highrise/setup_project_highrise_brilliant_berlin_1.6.3_(26636).exe  88f4c0a9
 project_highrise/setup_project_highrise_las_vegas_1.6.3_(26636).exe  c39cfa35
@@ -10625,6 +10864,10 @@ reigns_her_majesty/reigns_her_majesty_mini_comic.zip  41069e42
 reigns_her_majesty/reigns_her_majesty_ost_flac.zip  3af6254d
 reigns_her_majesty/reigns_her_majesty_ost_mp3.zip  e77d8259
 reigns_her_majesty/setup_reigns_her_majesty_20180719_(64bit)_(22351).exe  214310d8	BAD 214310d8 != 20180719
+reigns_her_majesty.sfv/reigns_her_majesty_mini_comic.zip  41069e42
+reigns_her_majesty.sfv/reigns_her_majesty_ost_flac.zip  3af6254d
+reigns_her_majesty.sfv/reigns_her_majesty_ost_mp3.zip  e77d8259
+reigns_her_majesty.sfv/setup_reigns_her_majesty_20180719_(64bit)_(22351).exe  214310d8
 relegion/re_legion_artbook.zip  a951d35e
 relegion/re_legion_ost_mp3.zip  31b1f5de
 relegion/re_legion_ost_wav.zip  e309a940
@@ -11108,10 +11351,18 @@ saints_row_gat_out_of_hell/setup_saints_row_-_gat_out_of_hell_20170523_(12199)-1
 saints_row_gat_out_of_hell/setup_saints_row_-_gat_out_of_hell_20170523_(12199)-2.bin  61a42144	BAD 61a42144 != 20170523
 saints_row_gat_out_of_hell/setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe  0b4f9c51	BAD 0b4f9c51 != 20170523
 saints_row_gat_out_of_hell/setup_saints_row_-_gat_out_of_hell_devils_workshop_pack_20170523_(12199).exe  b5a113af	BAD b5a113af != 20170523
+saints_row_gat_out_of_hell.sfv/setup_saints_row_-_gat_out_of_hell_20170523_(12199)-1.bin  4a518eeb
+saints_row_gat_out_of_hell.sfv/setup_saints_row_-_gat_out_of_hell_20170523_(12199)-2.bin  61a42144
+saints_row_gat_out_of_hell.sfv/setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe  0b4f9c51
+saints_row_gat_out_of_hell.sfv/setup_saints_row_-_gat_out_of_hell_devils_workshop_pack_20170523_(12199).exe  b5a113af
 saints_row_iv_game_of_the_century_edition/setup_saints_row_4_20170523_(12199)-1.bin  1969e909	BAD 1969e909 != 20170523
 saints_row_iv_game_of_the_century_edition/setup_saints_row_4_20170523_(12199)-2.bin  96295487	BAD 96295487 != 20170523
 saints_row_iv_game_of_the_century_edition/setup_saints_row_4_20170523_(12199)-3.bin  47613c85	BAD 47613c85 != 20170523
 saints_row_iv_game_of_the_century_edition/setup_saints_row_4_20170523_(12199).exe  87bb483e	BAD 87bb483e != 20170523
+saints_row_iv_game_of_the_century_edition.sfv/setup_saints_row_4_20170523_(12199)-1.bin  1969e909
+saints_row_iv_game_of_the_century_edition.sfv/setup_saints_row_4_20170523_(12199)-2.bin  96295487
+saints_row_iv_game_of_the_century_edition.sfv/setup_saints_row_4_20170523_(12199)-3.bin  47613c85
+saints_row_iv_game_of_the_century_edition.sfv/setup_saints_row_4_20170523_(12199).exe  87bb483e
 saints_row_the_third_remastered/setup_saints_row_the_thirdtm_remastered_1.0.6.1_(64bit)_(47287)-1.bin  fc1c49bd
 saints_row_the_third_remastered/setup_saints_row_the_thirdtm_remastered_1.0.6.1_(64bit)_(47287)-10.bin  a83c49cd
 saints_row_the_third_remastered/setup_saints_row_the_thirdtm_remastered_1.0.6.1_(64bit)_(47287)-11.bin  7febe0ff
@@ -11631,6 +11882,11 @@ shelter_2/setup_shelter_2_mountains_20150708(a)_(36541).exe  888267c9	BAD 888267
 shelter_2/shelter_2_mountains_wallpaper.zip  00447a46
 shelter_2/shelter_2_soundtrack.zip  275be3e1
 shelter_2/shelter_2_wallpapers.zip  7bb6858b
+shelter_2.sfv/setup_shelter_2_20150708(a)_(36541).exe  3f6551cc
+shelter_2.sfv/setup_shelter_2_mountains_20150708(a)_(36541).exe  888267c9
+shelter_2.sfv/shelter_2_mountains_wallpaper.zip  00447a46
+shelter_2.sfv/shelter_2_soundtrack.zip  275be3e1
+shelter_2.sfv/shelter_2_wallpapers.zip  7bb6858b
 sheltered/setup_sheltered_1.9_(30851).exe  0d9bf661
 sheltered_2/setup_sheltered_2_sheltered2_rc_1_2_14_gog_(56701)-1.bin  dd334ab5
 sheltered_2/setup_sheltered_2_sheltered2_rc_1_2_14_gog_(56701).exe  916cdc5d
@@ -13069,6 +13325,9 @@ sunless_sea/sunless_sea_concept_art.zip  7499f378
 sunless_skies/setup_sunless_skies_sovereign_edition_2.0.4.fcf0af7a_(52194).exe  19151258	BAD 19151258 != fcf0af7a
 sunless_skies/sunless_skies_ost_flac.zip  73090dfb
 sunless_skies/sunless_skies_ost_mp3.zip  9ab80e5e
+sunless_skies.sfv/setup_sunless_skies_sovereign_edition_2.0.4.fcf0af7a_(52194).exe  19151258
+sunless_skies.sfv/sunless_skies_ost_flac.zip  73090dfb
+sunless_skies.sfv/sunless_skies_ost_mp3.zip  9ab80e5e
 sunrider_academy/setup_sunrider_academy_1.02_(20913).exe  6ae572bf
 sunrider_liberation_day_captains_edition/setup_sunrider_liberation_day_-_captains_edition_3.01_(20913).exe  d256dcdd
 sunrider_mask_of_arcadius/setup_sunrider_mask_of_arcadius_7.2_hotfix_(20990).exe  09757768
@@ -13260,6 +13519,13 @@ syberia_2/syberia2_Avatars.zip  ec9bc250
 syberia_2/syberia2_Manual.zip  f6910d30
 syberia_2/syberia2_Wallpapers.zip  a2f66aa3
 syberia_2/syberia2_music.zip  d5f54ba8
+syberia_2.sfv/setup_syberia2_russian_2.1.0.1.exe  d7c5c736
+syberia_2.sfv/setup_syberia_2_20171109_(16283).exe  26b5c848
+syberia_2.sfv/syberia2_Artworks.zip  806d6f45
+syberia_2.sfv/syberia2_Avatars.zip  ec9bc250
+syberia_2.sfv/syberia2_Manual.zip  f6910d30
+syberia_2.sfv/syberia2_Wallpapers.zip  a2f66aa3
+syberia_2.sfv/syberia2_music.zip  d5f54ba8
 syberia_3_the_complete_journey/setup_syberia3_1.5.07_(16263)-1.bin  53d2cddb
 syberia_3_the_complete_journey/setup_syberia3_1.5.07_(16263)-2.bin  1ca952b4
 syberia_3_the_complete_journey/setup_syberia3_1.5.07_(16263)-3.bin  face7317
@@ -13348,6 +13614,9 @@ tales_from_space_mutant_blobs_attack/setup_mutant_blobs_attack_2.1.0.3.exe  cd47
 tales_from_the_borderlands/setup_tales_from_the_borderlands_20171128_(16743)-1.bin  121369d3	BAD 121369d3 != 20171128
 tales_from_the_borderlands/setup_tales_from_the_borderlands_20171128_(16743)-2.bin  594d12e3	BAD 594d12e3 != 20171128
 tales_from_the_borderlands/setup_tales_from_the_borderlands_20171128_(16743).exe  73ba4da9	BAD 73ba4da9 != 20171128
+tales_from_the_borderlands.sfv/setup_tales_from_the_borderlands_20171128_(16743)-1.bin  121369d3
+tales_from_the_borderlands.sfv/setup_tales_from_the_borderlands_20171128_(16743)-2.bin  594d12e3
+tales_from_the_borderlands.sfv/setup_tales_from_the_borderlands_20171128_(16743).exe  73ba4da9
 tales_of_majeyal/setup_tales_of_majeyal_1.7.4_(48137).exe  336fcc19
 tales_of_majeyal/setup_tales_of_majeyal_ashes_of_urhrok_1.7.4_(48137).exe  9e75531a
 tales_of_majeyal/setup_tales_of_majeyal_embers_of_rage_1.7.4_(48137).exe  0b2379c2
@@ -13360,6 +13629,14 @@ tales_of_monkey_island/tomi_concepts.zip  6a1e8888
 tales_of_monkey_island/tomi_developers_commentary.zip  47634e6e
 tales_of_monkey_island/tomi_i_wonder_what_happens.zip  ace450d3
 tales_of_monkey_island/tomi_wallpapers.zip  f4e8e725
+tales_of_monkey_island.sfv/setup_tales_of_monkey_island_1.0_20210623_(48006)-1.bin  bf647dfb
+tales_of_monkey_island.sfv/setup_tales_of_monkey_island_1.0_20210623_(48006).exe  72630306
+tales_of_monkey_island.sfv/tomi_artworks.zip  e4e6ffb3
+tales_of_monkey_island.sfv/tomi_avatars.zip  1fde0a2b
+tales_of_monkey_island.sfv/tomi_concepts.zip  6a1e8888
+tales_of_monkey_island.sfv/tomi_developers_commentary.zip  47634e6e
+tales_of_monkey_island.sfv/tomi_i_wonder_what_happens.zip  ace450d3
+tales_of_monkey_island.sfv/tomi_wallpapers.zip  f4e8e725
 tales_of_the_neon_sea/setup_tales_of_the_neon_sea_1.0.85_(45944).exe  68add406
 tales_of_the_neon_sea/tales_of_the_neon_sea_original_soundtrack_mp3.zip  d7feb53d
 talisman_digital_edition/setup_talisman_-_base_game_legendary_deck_77806_(54089).exe  6f1ffe43
@@ -13447,6 +13724,10 @@ tasomachi_behind_the_twilight/setup_tasomachi_behind_the_twilight_tasomachi_2022
 tasomachi_behind_the_twilight/setup_tasomachi_behind_the_twilight_tasomachi_20220419_gog_(64bit)_(55232).exe  212a3bb4	BAD 212a3bb4 != 20220419
 tasomachi_behind_the_twilight/tasomachi_soundtrack_mp3.zip  8b37c16d
 tasomachi_behind_the_twilight/tasomachi_soundtrack_wav.zip  27b3b35c
+tasomachi_behind_the_twilight.sfv/setup_tasomachi_behind_the_twilight_tasomachi_20220419_gog_(64bit)_(55232)-1.bin  d0d0c7b1
+tasomachi_behind_the_twilight.sfv/setup_tasomachi_behind_the_twilight_tasomachi_20220419_gog_(64bit)_(55232).exe  212a3bb4
+tasomachi_behind_the_twilight.sfv/tasomachi_soundtrack_mp3.zip  8b37c16d
+tasomachi_behind_the_twilight.sfv/tasomachi_soundtrack_wav.zip  27b3b35c
 tastemaker_restaurant_simulator/setup_tastemaker_restaurant_simulator_0.1.8_(57967).exe  661b6d1d
 tavern_master/setup_tavern_master_1.3_(57103).exe  d782211b
 teamfight_manager/setup_teamfight_manager_1.4.5_(51145).exe  e861c971
@@ -13575,6 +13856,14 @@ tex_murphy_under_a_killing_moon/tm_uakm_novella_pdf.zip  5ab4868f
 tex_murphy_under_a_killing_moon/tmuakm_handbuch.zip  cc5092b8
 tex_murphy_under_a_killing_moon/under_a_killing_moon_in-game_soundtrack.zip  261ab756
 tex_murphy_under_a_killing_moon/under_a_killing_moon_manual.zip  f1570834
+tex_murphy_under_a_killing_moon.sfv/TexExpert.zip  ee78b0a6
+tex_murphy_under_a_killing_moon.sfv/setup_tex_murphy_-_under_a_killing_moon_31307430_(17051).exe  08f35fb3
+tex_murphy_under_a_killing_moon.sfv/tex_murphy_avatars.zip  39a4dffa
+tex_murphy_under_a_killing_moon.sfv/tm_uakm_ebook_mobi.zip  c006fb05
+tex_murphy_under_a_killing_moon.sfv/tm_uakm_novella_pdf.zip  5ab4868f
+tex_murphy_under_a_killing_moon.sfv/tmuakm_handbuch.zip  cc5092b8
+tex_murphy_under_a_killing_moon.sfv/under_a_killing_moon_in-game_soundtrack.zip  261ab756
+tex_murphy_under_a_killing_moon.sfv/under_a_killing_moon_manual.zip  f1570834
 tharsis/setup_tharsis_2.1.0.4.exe  26c1ed67
 the_11th_hour/setup_the_11th_hour_1.0_(22303)-1.bin  1e859e93
 the_11th_hour/setup_the_11th_hour_1.0_(22303).exe  2eca1e94
@@ -14084,6 +14373,8 @@ the_inner_world/inner_world_wallpaper.zip  5118012f
 the_inner_world/setup_the_inner_world_1.2.1_(26675).exe  77a7f1c6
 the_inner_world_the_last_wind_monk/setup_inner_world_-_the_last_wind_monk_the_20171018_(15754)-1.bin  993853c3	BAD 993853c3 != 20171018
 the_inner_world_the_last_wind_monk/setup_inner_world_-_the_last_wind_monk_the_20171018_(15754).exe  4a1ef891	BAD 4a1ef891 != 20171018
+the_inner_world_the_last_wind_monk.sfv/setup_inner_world_-_the_last_wind_monk_the_20171018_(15754)-1.bin  993853c3
+the_inner_world_the_last_wind_monk.sfv/setup_inner_world_-_the_last_wind_monk_the_20171018_(15754).exe  4a1ef891
 the_interactive_adventures_of_dog_mendonca_and_pizzaboy/setup_the_interactive_adventures_of_dog_mendonca_and_pizzaboy_1.0.3_(18993).exe  49504e68
 the_interactive_adventures_of_dog_mendonca_and_pizzaboy/tiadmpb_wallpapers_jpg.zip  7b61b8c3
 the_invisible_hand/The_Invisible_Hand_OST_MP3.zip  c5dc7f62
@@ -14222,6 +14513,9 @@ the_lions_song/tls_ost_mp3.zip  5f91f985
 the_little_acre/setup_the_little_acre_16082017_(14244)-1.bin  3222be13	BAD 3222be13 != 16082017
 the_little_acre/setup_the_little_acre_16082017_(14244).exe  13e61dae	BAD 13e61dae != 16082017
 the_little_acre/tla_artbook.zip  363a202f
+the_little_acre.sfv/setup_the_little_acre_16082017_(14244)-1.bin  3222be13
+the_little_acre.sfv/setup_the_little_acre_16082017_(14244).exe  13e61dae
+the_little_acre.sfv/tla_artbook.zip  363a202f
 the_long_dark/setup_the_long_dark_2.01_(64bit)_(58229)-1.bin  f272494a
 the_long_dark/setup_the_long_dark_2.01_(64bit)_(58229)-2.bin  6f66add6
 the_long_dark/setup_the_long_dark_2.01_(64bit)_(58229)-3.bin  e00c4188
@@ -14371,6 +14665,9 @@ the_real_texas/trt_soundtrack.zip  095c5bf9
 the_red_strings_club/setup_the_red_strings_club_20180122_(ch_update)_(40838).exe  c30ef863	BAD c30ef863 != 20180122
 the_red_strings_club/the_red_strings_club_avatars.zip  a0a6c72a
 the_red_strings_club/the_red_strings_club_wallpapers.zip  52981315
+the_red_strings_club.sfv/setup_the_red_strings_club_20180122_(ch_update)_(40838).exe  c30ef863
+the_red_strings_club.sfv/the_red_strings_club_avatars.zip  a0a6c72a
+the_red_strings_club.sfv/the_red_strings_club_wallpapers.zip  52981315
 the_riftbreaker/setup_the_riftbreaker_1.31770_(64bit)_(57804)-1.bin  916e5e91
 the_riftbreaker/setup_the_riftbreaker_1.31770_(64bit)_(57804)-2.bin  bfc1e4a9
 the_riftbreaker/setup_the_riftbreaker_1.31770_(64bit)_(57804).exe  d51d5458
@@ -14786,6 +15083,7 @@ thief_simulator/setup_thief_simulator_1.45_(64bit)_(42494).exe  8c17ad18
 thimbleweed_park/setup_ransome_unbeeped_1.0.958_(19287).exe  bf96d685
 thimbleweed_park/setup_thimbleweed_park_1.0.958_(19287).exe  726b16ed
 think_of_the_children/setup_think_of_the_children_20171019_(15780).exe  9240bb3b	BAD 9240bb3b != 20171019
+think_of_the_children.sfv/setup_think_of_the_children_20171019_(15780).exe  9240bb3b
 this_is_the_police/setup_this_is_the_police_1.1.3.0_(11248)-1.bin  25226a8b
 this_is_the_police/setup_this_is_the_police_1.1.3.0_(11248).exe  2a1ce280
 this_is_the_police_2/setup_this_is_the_police_2_1.0.7_(32247)-1.bin  9621afd3
@@ -14859,6 +15157,18 @@ ticket_to_ride/setup_ticket_to_ride_-_united_kingdom_2.7.11-6980-90471d26_(44008
 ticket_to_ride/setup_ticket_to_ride_-_usa_1910_2.7.11-6980-90471d26_(44008).exe  6acec6fd	BAD 6acec6fd != 90471d26
 ticket_to_ride/setup_ticket_to_ride_2.7.11-6980-90471d26_(44008)-1.bin  28f3f737	BAD 28f3f737 != 90471d26
 ticket_to_ride/setup_ticket_to_ride_2.7.11-6980-90471d26_(44008).exe  d10feb93	BAD d10feb93 != 90471d26
+ticket_to_ride.sfv/setup_ticket_to_ride_-_europe_2.7.11-6980-90471d26_(44008).exe  6f07801e
+ticket_to_ride.sfv/setup_ticket_to_ride_-_france_2.7.11-6980-90471d26_(44008).exe  58478762
+ticket_to_ride.sfv/setup_ticket_to_ride_-_germany_2.7.11-6980-90471d26_(44008).exe  2479afc1
+ticket_to_ride.sfv/setup_ticket_to_ride_-_india_2.7.11-6980-90471d26_(44008).exe  b47892b6
+ticket_to_ride.sfv/setup_ticket_to_ride_-_legendary_asia_2.7.11-6980-90471d26_(44008).exe  f032b4bb
+ticket_to_ride.sfv/setup_ticket_to_ride_-_nordic_countries_2.7.11-6980-90471d26_(44008).exe  731db223
+ticket_to_ride.sfv/setup_ticket_to_ride_-_pennsylvania_2.7.11-6980-90471d26_(44008).exe  ad83fa36
+ticket_to_ride.sfv/setup_ticket_to_ride_-_switzerland_2.7.11-6980-90471d26_(44008).exe  bfb9ebb9
+ticket_to_ride.sfv/setup_ticket_to_ride_-_united_kingdom_2.7.11-6980-90471d26_(44008).exe  0ef8e225
+ticket_to_ride.sfv/setup_ticket_to_ride_-_usa_1910_2.7.11-6980-90471d26_(44008).exe  6acec6fd
+ticket_to_ride.sfv/setup_ticket_to_ride_2.7.11-6980-90471d26_(44008)-1.bin  28f3f737
+ticket_to_ride.sfv/setup_ticket_to_ride_2.7.11-6980-90471d26_(44008).exe  d10feb93
 tie_fighter_cdrom_placeholder/setup_star_warstm_tie_fighter_collectors_cd_(1995)_1.0_(20412).exe  9d1fd58f
 timberborn/setup_timberborn_0.1.5.2-773c83b-gw_(64bit)_(55236).exe  fb8d1936
 timberborn/timberborn_soundtrack_flac.zip  9ebed234
@@ -14912,6 +15222,8 @@ tiny_and_big_grandpas_leftovers/tiny_and_big_wallpapers.zip  1677f87d
 tinytopia/setup_tinytopia_211111gog_(64bit)_(51405).exe  e21ceb54
 tis100/setup_tis-100_20171129_(43141).exe  2bc8ae4a	BAD 2bc8ae4a != 20171129
 tis100/tis100_manual.zip  bf9c1d36
+tis100.sfv/setup_tis-100_20171129_(43141).exe  2bc8ae4a
+tis100.sfv/tis100_manual.zip  bf9c1d36
 titan_quest_anniversary_edition/setup_titan_quest_-_anniversary_edition_2.10.5_(58098)-1.bin  a12ebd6a
 titan_quest_anniversary_edition/setup_titan_quest_-_anniversary_edition_2.10.5_(58098)-2.bin  6fcc83e5
 titan_quest_anniversary_edition/setup_titan_quest_-_anniversary_edition_2.10.5_(58098)-3.bin  b6f4dff5
@@ -14989,14 +15301,26 @@ tomb_raider_1/setup_tomb_raider_1_20180105_(17652).exe  252d7837	BAD 252d7837 !=
 tomb_raider_1/tomb_raider_123_artworks.zip  0845c689
 tomb_raider_1/tomb_raider_123_avatars.zip  9542dc4f
 tomb_raider_1/tomb_raider_123_manuals.zip  e0bc86ca
+tomb_raider_1.sfv/setup_tomb_raider_1_20180105_(17652).exe  252d7837
+tomb_raider_1.sfv/tomb_raider_123_artworks.zip  0845c689
+tomb_raider_1.sfv/tomb_raider_123_avatars.zip  9542dc4f
+tomb_raider_1.sfv/tomb_raider_123_manuals.zip  e0bc86ca
 tomb_raider_2/setup_tomb_raider_2_20180108_(17720).exe  dc5f43d1	BAD dc5f43d1 != 20180108
 tomb_raider_2/tomb_raider_123_artworks.zip  0845c689
 tomb_raider_2/tomb_raider_123_avatars.zip  9542dc4f
 tomb_raider_2/tomb_raider_123_manuals.zip  e0bc86ca
+tomb_raider_2.sfv/setup_tomb_raider_2_20180108_(17720).exe  dc5f43d1
+tomb_raider_2.sfv/tomb_raider_123_artworks.zip  0845c689
+tomb_raider_2.sfv/tomb_raider_123_avatars.zip  9542dc4f
+tomb_raider_2.sfv/tomb_raider_123_manuals.zip  e0bc86ca
 tomb_raider_3/setup_tomb_raider_3_20171016_(15705).exe  86638bbf	BAD 86638bbf != 20171016
 tomb_raider_3/tomb_raider_123_artworks.zip  0845c689
 tomb_raider_3/tomb_raider_123_avatars.zip  9542dc4f
 tomb_raider_3/tomb_raider_123_manuals.zip  e0bc86ca
+tomb_raider_3.sfv/setup_tomb_raider_3_20171016_(15705).exe  86638bbf
+tomb_raider_3.sfv/tomb_raider_123_artworks.zip  0845c689
+tomb_raider_3.sfv/tomb_raider_123_avatars.zip  9542dc4f
+tomb_raider_3.sfv/tomb_raider_123_manuals.zip  e0bc86ca
 tomb_raider_anniversary/setup_tomb_raider_anniversary_1.0_(48900)-1.bin  c813908c
 tomb_raider_anniversary/setup_tomb_raider_anniversary_1.0_(48900).exe  3268edc6
 tomb_raider_chronicles/setup_tomb_raider_5_20171024_(15901).exe  1aeff1a2	BAD 1aeff1a2 != 20171024
@@ -15005,6 +15329,12 @@ tomb_raider_chronicles/tomb_raider_45_avatars.zip  c1203c00
 tomb_raider_chronicles/tomb_raider_45_bonus_level.zip  d9d57578
 tomb_raider_chronicles/tomb_raider_45_manuals.zip  58a920a1
 tomb_raider_chronicles/tomb_raider_chronicles_editor_manual_german.zip  4e632306
+tomb_raider_chronicles.sfv/setup_tomb_raider_5_20171024_(15901).exe  1aeff1a2
+tomb_raider_chronicles.sfv/tomb_raider_45_artworks.zip  fafc4f52
+tomb_raider_chronicles.sfv/tomb_raider_45_avatars.zip  c1203c00
+tomb_raider_chronicles.sfv/tomb_raider_45_bonus_level.zip  d9d57578
+tomb_raider_chronicles.sfv/tomb_raider_45_manuals.zip  58a920a1
+tomb_raider_chronicles.sfv/tomb_raider_chronicles_editor_manual_german.zip  4e632306
 tomb_raider_goty/setup_tomb_raider_1.0_(47027)-1.bin  7f9506d3
 tomb_raider_goty/setup_tomb_raider_1.0_(47027)-2.bin  b7c2774d
 tomb_raider_goty/setup_tomb_raider_1.0_(47027)-3.bin  6568b474
@@ -15020,11 +15350,22 @@ tomb_raider_the_angel_of_darkness/tr6_avatars.zip  2aa74132
 tomb_raider_the_angel_of_darkness/tr6_making_of_video.zip  af2d7331
 tomb_raider_the_angel_of_darkness/tr6_manual.zip  e2f186c3
 tomb_raider_the_angel_of_darkness/tr6_wallpapers.zip  11b7b7c5
+tomb_raider_the_angel_of_darkness.sfv/setup_tomb_raider_6_20171016_(15707).exe  85015d95
+tomb_raider_the_angel_of_darkness.sfv/tr6_artworks.zip  0f1f0353
+tomb_raider_the_angel_of_darkness.sfv/tr6_avatars.zip  2aa74132
+tomb_raider_the_angel_of_darkness.sfv/tr6_making_of_video.zip  af2d7331
+tomb_raider_the_angel_of_darkness.sfv/tr6_manual.zip  e2f186c3
+tomb_raider_the_angel_of_darkness.sfv/tr6_wallpapers.zip  11b7b7c5
 tomb_raider_the_last_revelation/setup_tomb_raider_4_20170914_(14963).exe  23a46505	BAD 23a46505 != 20170914
 tomb_raider_the_last_revelation/tomb_raider_45_artworks.zip  fafc4f52
 tomb_raider_the_last_revelation/tomb_raider_45_avatars.zip  c1203c00
 tomb_raider_the_last_revelation/tomb_raider_45_bonus_level.zip  d9d57578
 tomb_raider_the_last_revelation/tomb_raider_45_manuals.zip  58a920a1
+tomb_raider_the_last_revelation.sfv/setup_tomb_raider_4_20170914_(14963).exe  23a46505
+tomb_raider_the_last_revelation.sfv/tomb_raider_45_artworks.zip  fafc4f52
+tomb_raider_the_last_revelation.sfv/tomb_raider_45_avatars.zip  c1203c00
+tomb_raider_the_last_revelation.sfv/tomb_raider_45_bonus_level.zip  d9d57578
+tomb_raider_the_last_revelation.sfv/tomb_raider_45_manuals.zip  58a920a1
 tomb_raider_underworld/setup_tomb_raider_underworld_1.1_(46856)-1.bin  7ce8eafb
 tomb_raider_underworld/setup_tomb_raider_underworld_1.1_(46856)-2.bin  006c0f94
 tomb_raider_underworld/setup_tomb_raider_underworld_1.1_(46856).exe  d822905d
@@ -15560,6 +15901,9 @@ unforeseen_incidents/setup_unforeseen_incidents_1.2_(55881).exe  04c0722e
 unholy_heights/setup_unholy_heights_20171109_(16285).exe  a04bc6f1	BAD a04bc6f1 != 20171109
 unholy_heights/unholy_heights_avatars.zip  1490b5bc
 unholy_heights/unholy_heights_wallpapers.zip  4589827e
+unholy_heights.sfv/setup_unholy_heights_20171109_(16285).exe  a04bc6f1
+unholy_heights.sfv/unholy_heights_avatars.zip  1490b5bc
+unholy_heights.sfv/unholy_heights_wallpapers.zip  4589827e
 universe_sandbox/setup_universe_sandbox_31.2.1_(64bit)_(58215).exe  e37107a3
 unmechanical/setup_unmechanical_2.3.0.24.exe  f89fa6bf
 unmechanical/unmechanical_artwork.zip  3a08415e
@@ -15746,6 +16090,12 @@ victor_vran/setup_victor_vran_2.07(20190131)_(27183).exe  f9821111	BAD f9821111 
 victor_vran/setup_victor_vran_fractured_worlds_2.07(20190131)_(27183).exe  3cfc0fd2	BAD 3cfc0fd2 != 20190131
 victor_vran/setup_victor_vran_motorhead_-_through_the_ages_2.07(20190131)_(27183).exe  1dc45856	BAD 1dc45856 != 20190131
 victor_vran/vv_wallpaper.zip  ea7c7b72
+victor_vran.sfv/setup_victor_vran_2.07(20190131)_(27183)-1.bin  390eec94
+victor_vran.sfv/setup_victor_vran_2.07(20190131)_(27183)-2.bin  4b2088a1
+victor_vran.sfv/setup_victor_vran_2.07(20190131)_(27183).exe  f9821111
+victor_vran.sfv/setup_victor_vran_fractured_worlds_2.07(20190131)_(27183).exe  3cfc0fd2
+victor_vran.sfv/setup_victor_vran_motorhead_-_through_the_ages_2.07(20190131)_(27183).exe  1dc45856
+victor_vran.sfv/vv_wallpaper.zip  ea7c7b72
 victoria_complete/setup_victoria_complete_2.0.0.1.exe  57034ce3
 victoria_complete/vc_manuals.zip  231eea98
 victoria_complete/vc_wallpaper.zip  8509425d
@@ -16155,6 +16505,9 @@ west_of_loathing/west_of_loathing_wallpaper.zip  93811f22
 westerado_double_barreled/setup_westerado_-_double_barreled_22082017_(14408).exe  8bc41e7e	BAD 8bc41e7e != 22082017
 westerado_double_barreled/westerado_avatar.zip  a5b002df
 westerado_double_barreled/westerado_wallpaper.zip  8cfa51cc
+westerado_double_barreled.sfv/setup_westerado_-_double_barreled_22082017_(14408).exe  8bc41e7e
+westerado_double_barreled.sfv/westerado_avatar.zip  a5b002df
+westerado_double_barreled.sfv/westerado_wallpaper.zip  8cfa51cc
 westmark_manor/setup_westmark_manor_1.042_(64bit)_(49211)-1.bin  667c6807
 westmark_manor/setup_westmark_manor_1.042_(64bit)_(49211).exe  3d726351
 westport_independent_the/setup_the_westport_independent_1.0.0_(18997).exe  dc5c6801
@@ -16832,7 +17185,7 @@ zork_zero_the_revenge_of_megaboz/zork_anthology_shareholder_letter.zip  0495355b
 zork_zero_the_revenge_of_megaboz/zork_anthology_stock_certificate.zip  46bf70df
 zwei_the_arges_adventure/setup_zwei_the_arges_adventure_1.0.10_(18651)-1.bin  09bb52ec
 zwei_the_arges_adventure/setup_zwei_the_arges_adventure_1.0.10_(18651).exe  d82e7de8
-zwei_the_ilvard_insurrection/setup_zwei_-_the_ilvard_insurrection_20180120_(18291)-1.bin  88eaae83	BAD 88eaae83 != 20180120
-zwei_the_ilvard_insurrection/setup_zwei_-_the_ilvard_insurrection_20180120_(18291).exe  1fd01a87	BAD 1fd01a87 != 20180120
+zwei_the_ilvard_insurrection/setup_zwei_-_the_ilvard_insurrection_20180120_(18291)-1.bin  88eaae83
+zwei_the_ilvard_insurrection/setup_zwei_-_the_ilvard_insurrection_20180120_(18291).exe  1fd01a87
 zyconix/setup_zyconix_1.0_(48123).exe  d34d49a6
 zyconix/zyconix_quickstart_guide.zip  4d1c66e4
