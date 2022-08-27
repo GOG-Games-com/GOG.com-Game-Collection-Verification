@@ -1,3 +1,3 @@
 #  GOG.com Game Collection Verification
 
-Verify that your collection matches GOG-Games.com. Repo auto updates daily.
+Verify that your collection matches GOG-Games.com. Repository updates hourly.
